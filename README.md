@@ -1,11 +1,12 @@
 <h1 align="center" >𝐇𝐢, 𝐈'𝐦 𝐍𝐚𝐲𝐲𝐚𝐧𝐠𝐢𝐞! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF69B4&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Enthusiast!;Passionate+about+Data+Science">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFB6C1&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Enthusiast!;Passionate+about+Data+Science;Always+learning+new+things">
   </a>
 </p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="40%" align="right" />
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="41%" align="right" />
 
 ## <picture> <img src = "https://i.pinimg.com/originals/98/8d/6e/988d6e82dd72311592dbe2c7af57cd81.gif" width = 23px>  </picture> About me
 
@@ -38,10 +39,11 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=16)
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 23px>  </picture> Github Stats  
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 23px>  </picture> Github Stats  
 <div align="center">  
   <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=KanayaDea&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=FF69B4&bg_color=FFE4E1" alt="Kanaya Dea GitHub Stats" />  
-  <img width="44%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanayaDea&layout=compact&hide_border=true&title_color=FF1493&text_color=FF69B4&bg_color=FFE4E1" />  
+  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanayaDea&layout=compact&hide_border=true&title_color=FF1493&text_color=FF69B4&bg_color=FFE4E1" />  
 </div>
+
 
 
