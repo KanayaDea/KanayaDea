@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="41%" align="right" />
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="40%" align="right" />
 
 ## <picture> <img src = "https://i.pinimg.com/originals/98/8d/6e/988d6e82dd72311592dbe2c7af57cd81.gif" width = 23px>  </picture> About me
 
