@@ -12,10 +12,10 @@
 
 </br>  
 
-- 🎓 **Bachelor’s graduate in Data Science** at ITERA  
+- 🎓 **Bachelor’s graduate in Data Science** at Sumatera Intitute of Technology (ITERA)  
 - 🌱 Exploring **Machine Learning, Neuro Linguistic Program, and Artificial Intelligence**  
 - 💻 Interested in **data modeling, time series, and analytics**
-- 🎨 Making content about Data Science, Machine Learning, and AI on Medium 
+- 🎨 Making content about **Data Science, Machine Learning, and AI** on [Medium](https://medium.com/@kanayadea)<br/>
 - 📫 **Contact me here** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=nayyangie&amp;color=FFB6C1&amp;style=flat-square)](mailto:kanayadea@gmail.com)
 <hr>
 
@@ -40,10 +40,17 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=16)
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 23px>  </picture> Github Stats  
-<div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=KanayaDea&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=FF69B4&bg_color=FFE4E1" alt="Kanaya Dea GitHub Stats" />  
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanayaDea&layout=compact&hide_border=true&title_color=FF1493&text_color=FF69B4&bg_color=FFE4E1" />  
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="23px">  
+</picture> GitHub Stats  
+
+<div align="center">
+  <img width="49%" height="160px"
+       src="https://github-readme-stats.vercel.app/api?username=KanayaDea&show_icons=true&hide_border=true"
+       alt="Kanaya Dea GitHub Stats" />
+  
+  <img width="41%" height="160px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanayaDea&layout=compact&hide_border=true"
+       alt="Top Languages" />
 </div>
 
 
