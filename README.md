@@ -14,7 +14,8 @@
 
 - 🎓 **Bachelor’s graduate in Data Science** at ITERA  
 - 🌱 Exploring **Machine Learning, Neuro Linguistic Program, and Artificial Intelligence**  
-- 💻 Interested in **data modeling, time series, and analytics**   
+- 💻 Interested in **data modeling, time series, and analytics**
+- 🎨 Making content about Data Science, Machine Learning, and AI on Medium 
 - 📫 **Contact me here** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=nayyangie&amp;color=FFB6C1&amp;style=flat-square)](mailto:kanayadea@gmail.com)
 <hr>
 
