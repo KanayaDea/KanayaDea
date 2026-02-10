@@ -40,18 +40,3 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=16)
 
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="23px">  
-</picture> GitHub Stats  
-
-<div align="center">
-  <img width="49%" height="160px"
-       src="https://github-readme-stats.vercel.app/api?username=KanayaDea&show_icons=true&hide_border=true"
-       alt="Kanaya Dea GitHub Stats" />
-  
-  <img width="41%" height="160px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanayaDea&layout=compact&hide_border=true"
-       alt="Top Languages" />
-</div>
-
-
-
