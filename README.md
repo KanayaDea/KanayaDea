@@ -12,7 +12,7 @@
 
 </br>  
 
-- 🎓 **Data Science Student** at ITERA  
+- 🎓 **Bachelor’s graduate in Data Science** at ITERA  
 - 🌱 Exploring **Machine Learning, Neuro Linguistic Program, and Artificial Intelligence**  
 - 💻 Interested in **data modeling, time series, and analytics**   
 - 📫 **Contact me here** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=nayyangie&amp;color=FFB6C1&amp;style=flat-square)](mailto:kanayadea@gmail.com)
